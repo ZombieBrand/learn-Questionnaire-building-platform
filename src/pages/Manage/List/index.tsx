@@ -18,7 +18,7 @@ import {
   CardTitle,
 } from "@/components/ui/card";
 import { Search } from "lucide-react";
-import QuestionnaireHeader from "./questionnaire-header";
+import QuestionnaireHeader from "@/pages/List/QuestionnaireHeader";
 
 // 模拟数据生成函数
 function generateMockData(count: number) {
@@ -48,7 +48,7 @@ const rawQuestionList = generateMockData(25);
 
 interface ListProps {}
 
-const List: React.FC<ListProps> = () => {
+const List: React.FC = () => {
   const [questionList, setQuestionList] = useState(rawQuestionList);
   const handleEdit = () => {
     console.log("Edit clicked");

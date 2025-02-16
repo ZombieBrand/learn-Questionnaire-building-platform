@@ -21,7 +21,7 @@ const QuestionnaireHeader: React.FC<QuestionnaireHeaderProps> = ({
   onCopy,
   onDelete,
 }) => {
-  const formatDate = (dateString: string) => {
+  const formatDate = (dateString: Date) => {
     const date = new Date(dateString);
     const year = date.getFullYear();
     const month = (date.getMonth() + 1).toString().padStart(2, "0");

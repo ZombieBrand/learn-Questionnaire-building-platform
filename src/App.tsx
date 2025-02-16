@@ -1,8 +1,8 @@
 import "./App.css";
-import List from "@/pages/List/List";
-import Page from "@/app/dashboard/page";
+import List from "@/pages/Manage/List";
+import Layout from "@/layout";
 function App() {
-  return <Page></Page>;
+  return <Layout></Layout>;
 }
 
 export default App;

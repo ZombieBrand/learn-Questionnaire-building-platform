@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&section=header&text=低代码w%20问卷调查%20平台&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&section=header&text=低代码%20问卷调查&descAlignY=51&descAlign=62)
 
 [![My Skills](https://skillicons.dev/icons?i=ts,vite,react,tailwind)](https://skillicons.dev)
 

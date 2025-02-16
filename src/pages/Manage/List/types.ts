@@ -4,6 +4,6 @@ export interface QuestionnaireListType {
   isPublished: boolean;
   isStar: boolean;
   answerCount: number;
-  createAt: string;
-  updateAt: string;
+  createAt: Date;
+  updateAt: Date;
 }
