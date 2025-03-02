@@ -6,11 +6,17 @@
 
 一个初始的 Vite 模板:
 
-- React + zustand
-- TypeScript
-- Vite
-- Tailwind CSS
-- shadcn/ui
+**UI:** [ShadcnUI](https://ui.shadcn.com) (TailwindCSS + RadixUI)
+
+**Build Tool:** [Vite](https://vitejs.dev/)
+
+**Routing:** [TanStack Router](https://tanstack.com/router/latest)
+
+**Type Checking:** [TypeScript](https://www.typescriptlang.org/)
+
+**Linting/Formatting:** [Eslint](https://eslint.org/) & [Prettier](https://prettier.io/)
+
+**Icons:** [Tabler Icons](https://tabler.io/icons)
 
 ## 安装
 
